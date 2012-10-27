@@ -1,0 +1,16 @@
+{
+    "name": "roundcube/rcsample",
+    "license": "BSD-3-clause",
+    "description": "This is an example plugin to demo how the integration works",
+    "type": "roundcube-plugin",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ]
+    "require": {
+        "roundcube/plugin-installer": "*"
+    },
+    "minimum-stability": "dev-master"
+}
