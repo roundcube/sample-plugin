@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "roundcube/plugin-installer": "*"
+        "roundcube/plugin-installer": ">=0.1.0"
     },
     "minimum-stability": "dev-master"
 }
