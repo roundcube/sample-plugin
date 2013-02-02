@@ -13,7 +13,9 @@
         "roundcube/plugin-installer": ">=0.1.0"
     },
     "extra": {
-        "roundcube": ">=0.9-beta,<1.1"
+        "roundcube": {
+            "min-version": "0.9-beta"
+        }
     }
     "minimum-stability": "dev-master"
 }
