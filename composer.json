@@ -16,6 +16,6 @@
         "roundcube": {
             "min-version": "0.9-beta"
         }
-    }
+    },
     "minimum-stability": "dev-master"
 }
