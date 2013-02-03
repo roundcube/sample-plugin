@@ -1,3 +1,3 @@
-# RoundCube Sample Plugin
+# Roundcube Sample Plugin
 
-A sample plugin to demo composer integration!
+A sample plugin to demonstrate the composer integration!
