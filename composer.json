@@ -3,6 +3,16 @@
     "license": "BSD-3-Clause",
     "description": "This is an example plugin to demo how the integration works",
     "type": "roundcube-plugin",
+    "authors": [
+        {
+            "name": "Till Klampaeckel",
+            "email": "till@php.net"
+        },
+        {
+            "name": "Thomas Bruederli",
+            "email": "thomas@roundcube.net"
+        }
+    ],
     "repositories": [
         {
             "type": "composer",
@@ -16,6 +26,5 @@
         "roundcube": {
             "min-version": "0.9-beta"
         }
-    },
-    "minimum-stability": "dev-master"
+    }
 }
