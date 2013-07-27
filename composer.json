@@ -24,7 +24,9 @@
     },
     "extra": {
         "roundcube": {
-            "min-version": "0.9.0"
+            "min-version": "0.9.0",
+            "post-install-script": "echo 'POST-INSTALL SCRIPT'",
+            "post-update-script": "echo 'POST-UPDATE SCRIPT'"
         }
     }
 }
